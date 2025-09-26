@@ -1,3 +1,5 @@
 setting up, init.
 
-this is the second line. i'm adding it as part of the second commit to test my git config set up in vs code.
+I have github set to keep my email private, which I've now learned means I have to use 
+the donotreply version of my email for my git config or else github will prevent me 
+from pushing if I use my actual email. Neat!
